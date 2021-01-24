@@ -25,8 +25,8 @@ SECRET_KEY = 'e-cg694p!i#t&6i@*tnj8!4rv&k@v@847n!@g4#fh4&nwtozie'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
+#ALLOWED_HOSTS = ['*']
 ALLOWED_HOSTS = ['django1-beni.herokuapp.com']
-
 
 # Application definition
 
